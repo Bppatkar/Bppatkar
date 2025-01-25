@@ -97,5 +97,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&" alt="Bhanu Pratap Patkar's GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&cache=clear" alt="Bhanu Pratap Patkar's GitHub streak" />
 </p>
+
