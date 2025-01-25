@@ -4,12 +4,12 @@
 ---
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bhanupratappatkar&label=Profile%20views&color=0e75b6&style=flat" alt="Bhanu Pratap Patkar" /> 
+  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=0e75b6&style=flat" alt="Bhanu Pratap Patkar" /> 
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhanupratappatkar" alt="Bhanu Pratap Patkar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Bppatkar" alt="Bhanu Pratap Patkar" />
   </a> 
 </p>
 
@@ -89,13 +89,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanupratappatkar&show_icons=true&locale=en&layout=compact" alt="Bhanu Pratap Patkar's most used languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bppatkar&show_icons=true&locale=en&layout=compact" alt="Bhanu Pratap Patkar's most used languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanupratappatkar&show_icons=true&locale=en" alt="Bhanu Pratap Patkar's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&locale=en" alt="Bhanu Pratap Patkar's GitHub stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanupratappatkar&" alt="Bhanu Pratap Patkar's GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&" alt="Bhanu Pratap Patkar's GitHub streak" />
 </p>
