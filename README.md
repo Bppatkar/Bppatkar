@@ -15,12 +15,12 @@
 
 ---
 
-- 🔭 I’m currently working on **Backend Technologies**  
-- 🌱 I’m currently learning **Spring Boot**  
+- 🔭 I’m currently working on **DSA**  
+- 🌱 I’m currently learning **DSA and Algo**  
 - 👯 I’m looking to collaborate on **Open Source Contributions**  
-- 💬 Ask me about **C, C++, Java, DSA, and Android App Development**  
+- 💬 Ask me about **C, C++, Java, DSA, and MERN Stack Development**  
 - 📫 How to reach me: **bhanupratappatkar@gmail.com**  
-- 📄 Check out my experiences here: [My Resume](https://drive.google.com/file/d/1HugwDjuN9gC5N_1n1kTQ5clU0AvE2j0r/view?usp=embed_facebook)
+- 📄 Check out my experiences here: [My Resume--upcoming...]()
 
 ---
 
