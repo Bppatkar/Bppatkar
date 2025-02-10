@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **DSA**  
 - 🌱 I’m currently learning **DSA and Algo**  
 - 👯 I’m looking to collaborate on **Open Source Contributions**  
-- 💬 Ask me about **C, C++, Java, DSA, and MERN Stack Development**  
+- 💬 Ask me about **C, C++, DSA, and MERN Stack Development**  
 - 📫 How to reach me: **bhanupratappatkar@gmail.com**  
 - 📄 Check out my experiences here: [My Resume--upcoming...]()
 
