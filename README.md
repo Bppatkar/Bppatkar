@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=0e75b6&style=flat" alt="total visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -48,12 +48,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" />
 
-<!-- Databases & ORMs -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" />
-<img src="https://avatars.githubusercontent.com/u/108914378?s=200&v=4" height="40" alt="drizzle" />
-
-<!-- DevOps & Tools -->
+<!-- DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" />
 <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" />
@@ -63,21 +58,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=tokyonight&layout=compact"
-    alt="Top Languages" 
-  /> 
-  &nbsp;
-  <img 
-    src="https://streak-stats.demolab.com?user=Bppatkar&theme=tokyonight"
-    alt="GitHub Streak" 
-  />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=gruvbox&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=gruvbox" height="160"/>
 </p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bppatkar&theme=tokyonight&show_icons=true"
-    alt="GitHub Stats" 
-  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bppatkar&theme=gruvbox" height="180"/>
 </p>
