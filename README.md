@@ -5,7 +5,7 @@
   align="right" 
   alt="coding" 
   width="380px" 
-  src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20" 
+  src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20"  <!-- Replace with your image link -->
 />
 
 <p align="left">
@@ -17,91 +17,70 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **DSA & MERN Stack projects**  
-- 🌱 Learning **Advanced Algorithms & System Design**  
-- 👯 Open to collaborate on **Open Source Contributions**  
-- 💬 Ask me about **C, C++, DSA, or MERN Stack**  
-- 📫 Reach me: **bhanupratappatkar@gmail.com**  
-- 📄 Resume: [My Resume--upcoming...]()  
+### 🚀 Quick Info  
+- � **Expertise:** C, C++, DSA, MERN Stack  
+- 🌱 **Learning:** Advanced DSA & System Design  
+- 📫 **Email:** bhanupratappatkar@gmail.com  
+- 📄 **Resume:** [My Resume--upcoming...]()  
+- 🔗 **LinkedIn:** [bhanu-pratap-patkar](https://linkedin.com/in/bhanu-pratap-patkar)  
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/bhanu-pratap-patkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/bhanu_patkar5543" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/u/Bppatkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/bhanuprataph7ur" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" height="40" alt="Chakra UI" />
+  <img src="https://cdn.simpleicons.org/chakraui/319795" height="40" alt="chakraui" />
   <img width="12" />
-  <img src="https://github.com/shadcn.png" height="40" alt="ShadCN UI" />
+  <img src="https://github.com/shadcn.png" height="40" alt="shadcn" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" alt="Spring" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Bppatkar&show_icons=true&locale=en&layout=compact&theme=nightowl" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top Languages" 
   /> &nbsp; &nbsp;
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false" 
     alt="GitHub Streak" 
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&locale=en&theme=nightowl" 
+    src="https://github-readme-stats.vercel.app/api?username=Bppatkar&theme=nightowl&show_icons=true&hide_border=false&count_private=false" 
     alt="GitHub Stats" 
   />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies  
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bppatkar&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bppatkar&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
 </a>
