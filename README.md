@@ -5,7 +5,7 @@
   align="right" 
   alt="coding" 
   width="380px" 
-  src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20"  <!-- Replace with your image link -->
+  src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20" 
 />
 
 <p align="left">
