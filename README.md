@@ -9,13 +9,12 @@
 />
 
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Bhanu Pratap Patkar" 
+  <img
+    src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=0e75b6&style=flat"
+    alt="total visitors"
   />
 </p>
 
----
 
 ### 🚀 Quick Info  
 - � **Expertise:** C, C++, DSA, MERN Stack  
@@ -26,8 +25,9 @@
 
 ---
 
-### 🛠️ Tech Stack  
+<h3 align="left">🧑‍💻 Tech Stack</h3> 
 <div align="left">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
@@ -38,7 +38,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  
+  <!-- Frontend -->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
+  
+  <!-- Backend -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
@@ -46,15 +60,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="mongoose" />
+  
+  <!-- Databases & ORMs -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/chakraui/319795" height="40" alt="chakraui" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql" />
   <img width="12" />
-  <img src="https://github.com/shadcn.png" height="40" alt="shadcn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://avatars.githubusercontent.com/u/108914378?s=200&v=4" height="40" alt="drizzle" />
+  
+  <!-- DevOps & Tools -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" alt="stripe" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="ejs" />
 </div>
 
 ---
@@ -77,10 +101,3 @@
     alt="GitHub Stats" 
   />
 </p>
-
----
-
-### 🏆 GitHub Trophies  
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bppatkar&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies" />
-</a>
