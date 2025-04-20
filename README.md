@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Patkar</h1>
 <h3 align="center">A passionate Post-Graduate MSc Computer Science student at MMYVV, with expertise in C, C++, DSA, and the MERN Stack.</h3>
 
-<p align="center">
+ 
   <img 
+align="right"
     src="https://github.com/user-attachments/assets/a0738c80-5ab4-4ef4-a240-e4cc8b059f20" 
     alt="coding"
-    height="260"
+   width="380px"
   />
-</p>
 
-<p align="center">
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
@@ -23,9 +24,10 @@
 
 ---
 
-### 🧑‍💻 Tech Stack
-<div align="left">
+<h3 align="left">🧑‍💻Tech Stack</h3>
 
+###
+<div align="left">
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -57,12 +59,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&layout=compact&theme=react" height="180"/>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="amankumarsinhagithub"
+  /> &nbsp; &nbsp; &nbsp;
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
+    alt="amankumarsinhagithub"
+  />
 </p>
+
 
 
 
