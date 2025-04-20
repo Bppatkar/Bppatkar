@@ -14,7 +14,7 @@ align="right"
   <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
----
+
 
 ### 🚀 Quick Info  
 - 💻 **Expertise:** C, C++, DSA, MERN Stack  
@@ -22,7 +22,6 @@ align="right"
 - 📫 **Email:** bhanupratappatkar@gmail.com  
 - 🔗 **LinkedIn:** [bhanu-pratap-patkar](https://linkedin.com/in/bhanu-pratap-patkar)  
 
----
 
 <h3 align="left">🧑‍💻Tech Stack</h3>
 
