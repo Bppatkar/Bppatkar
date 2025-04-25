@@ -5,21 +5,16 @@
 <h1 align="center">Hi 👋, I'm Bhanu Pratap Patkar</h1>
 <h3 align="center">A passionate Post-Graduate MSc Computer Science student at MMYVV, with expertise in C, C++, DSA, and the MERN Stack.</h3>
 
- 
- <img 
+<img 
 align="right"
 src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
 alt="coding-gif"
 width="350px"
 />
 
-
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
 </p>
-
-
 
 ### 🚀 Quick Info  
 - 💻 **Expertise:** C, C++, DSA, MERN Stack  
@@ -27,8 +22,7 @@ width="350px"
 - 📫 **Email:** bhanupratappatkar@gmail.com  
 - 🔗 **LinkedIn:** [bhanu-pratap-patkar](https://linkedin.com/in/bhanu-pratap-patkar)  
 
-
-<h3 align="left">🧑‍💻Tech Stack</h3>
+<h3 align="left">🧑‍💻 Tech Stack</h3>
 
 ###
 <div align="left">
@@ -58,24 +52,22 @@ width="350px"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" />
 <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" />
-
 </div>
 
 ---
 
-### 
+### 📊 GitHub Stats
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="bhanuPratapPatkar"
   /> &nbsp; &nbsp; &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=radical&hide_border=false"
     alt="Bppatkar"
   />
 </p>
 
-
-
-
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bppatkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
