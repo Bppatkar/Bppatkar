@@ -65,9 +65,7 @@ width="350px"
   /> &nbsp; &nbsp; &nbsp;
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=radical&hide_border=false"
-    alt="Bppatkar"
+    alt="Bppatkarr"
   />
 </p>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bppatkar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
