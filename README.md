@@ -10,7 +10,7 @@
 align="right"
 src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
 alt="coding-gif"
-width="380px"
+width="350px"
 />
 
 
@@ -72,7 +72,7 @@ width="380px"
   /> &nbsp; &nbsp; &nbsp;
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
-    alt="bhanuPratapPatkar"
+    alt="Bppatkar"
   />
 </p>
 
