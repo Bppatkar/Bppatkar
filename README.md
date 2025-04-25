@@ -64,7 +64,7 @@ width="350px"
     alt="bhanuPratapPatkar"
   /> &nbsp; &nbsp; &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
     alt="Bppatkar"
   />
 </p>
