@@ -68,10 +68,11 @@ width="350px"
     alt="Bppatkar"
   />
 </p>
+
 ### 🟩 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8A2BE2/Bppatkar" alt="Bhanu Pratap Patkar's Github chart" />
+  <img src="https://ghchart.rshah.org/39FF14/Bppatkar" alt="Bhanu Pratap Patkar's Github chart" />
 </p>
 
 
