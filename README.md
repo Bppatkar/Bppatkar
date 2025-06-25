@@ -17,7 +17,7 @@ width="350px"
 </p>
 
 ### 🚀 Quick Info  
-- 💻 **Expertise:** C, C++, DSA, MERN Stack  
+- 💻 **Expertise:** C, C++, MERN Stack  
 - 🌱 **Learning:** Advanced DSA & System Design  
 - 📫 **Email:** bhanupratappatkar@gmail.com  
 - 🔗 **LinkedIn:** [bhanu-pratap-patkar](https://linkedin.com/in/bhanu-pratap-patkar)  
