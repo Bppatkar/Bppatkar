@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhanu+Pratap+Patkar!;" alt="Hi There! I'm Bhanu Pratap Patkar!" />
 </h1>
 
-<h3 align="center">A passionate <strong>Post-Graduate MSc Computer Science student</strong> at MMYVV, with expertise in <strong>C, C++, DSA, and the MERN Stack</strong>.</h3>
+<h3 align="center">A passionate <strong>Post-Graduate MSc Computer Science student</strong> at MMYVV, with expertise in <strong>C, C++, DSA in Javascript, MERN Stack, PostgreSQL, Next JS Typescript, </strong>.</h3>
 <br>
 
 <p align="center">
