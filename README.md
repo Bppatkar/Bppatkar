@@ -15,8 +15,8 @@
 
 ### 🚀 Quick Info
 
-- 💻 **Expertise:** C, C++, MERN Stack
-- 🌱 **Learning:** Advanced DSA & System Design
+- 💻 **Expertise:** C, C++, Python,MERN Stack, Next_Js, 
+- 🌱 **Learning:** DataStructure and Algorithms
 
 <br>
 
