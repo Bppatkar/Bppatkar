@@ -65,12 +65,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS" />
   </p>
 
-  #### Tools & Platforms
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-    <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="Appwrite" />
-    <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" alt="Stripe" />
-  </p>
+
 
 
 ---
