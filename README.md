@@ -33,7 +33,7 @@
 
 ### 💻 Tech Stack
 
-<details>
+
   <summary>Click to expand my skills!</summary>
   <br>
 
@@ -71,7 +71,7 @@
     <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="Appwrite" />
     <img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" alt="Stripe" />
   </p>
-</details>
+
 
 ---
 
