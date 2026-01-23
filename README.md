@@ -13,7 +13,7 @@
   
   <br />
   
-  📱 +918085274599 | 📍 Bhopal, Madhya Pradesh, India
+  📱 +918085274599 | 📍 jabalpur, Madhya Pradesh, India
   
 </div>
 
