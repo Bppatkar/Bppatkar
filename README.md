@@ -78,7 +78,7 @@ efficient code and delivering solutions that make a real impact.
 
 | Node.js | Express.js | Socket.IO |
 |:-------:|:----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" style="filter: invert(1);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://skillicons.dev/icons?i=express" width="55" /> | <img src="https://skillicons.dev/icons?i=socketio" width="55" /> |
 
 </div>
 
