@@ -22,7 +22,7 @@
   
   <br/>
   
-   📍 **Jabalpur, Madhya Pradesh, India** | 💻 **3+ Years of Experience** | 🎓 **MSc Computer Science**
+  > 📍 **Jabalpur, Madhya Pradesh, India** | 💻 **3+ Years of Experience** | 🎓 **MSc Computer Science**
   
 </div>
 
@@ -47,45 +47,72 @@ efficient code and delivering solutions that make a real impact.
 
 ## 🛠️ Tech Arsenal
 
-### **Languages**
-```
-🔹 JavaScript (Expert)    🔹 TypeScript (Advanced)   🔹 HTML5 (Expert)
-🔹 CSS3 (Expert)          🔹 C (Intermediate)        🔹 C++ (Intermediate)
-```
+### **Languages** 💬
+
+<div align="center">
+
+| JavaScript | TypeScript | HTML5 | CSS3 | C | C++ |
+|:----------:|:----------:|:-----:|:----:|:--:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" /> |
+| *Expert* | *Advanced* | *Expert* | *Expert* | *Intermediate* | *Intermediate* |
+
+</div>
+
+---
 
 ### **Frontend Magic** ✨
+
 <div align="center">
-  
+
 | React | Next.js | Redux | Tailwind CSS | Material-UI | Bootstrap |
 |:-----:|:-------:|:-----:|:------------:|:----------:|:---------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" /> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" /> |
 
 </div>
 
+---
+
 ### **Backend Power** ⚙️
+
 <div align="center">
-  
+
 | Node.js | Express.js | Socket.IO |
 |:-------:|:----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /> | <img src="https://skillicons.dev/icons?i=express" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
 
 </div>
+
+---
 
 ### **Database Mastery** 🗄️
+
 <div align="center">
-  
-| MongoDB | PostgreSQL | MySQL | SQL |
-|:-------:|:----------:|:-----:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> |
+
+| MongoDB | PostgreSQL | MySQL |
+|:-------:|:----------:|:-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" /> |
 
 </div>
 
+---
+
 ### **Developer Tools** 🔧
-```
-🔹 Git & GitHub          🔹 VS Code                🔹 Visual Studio
-🔹 RESTful APIs          🔹 JWT Authentication     🔹 Postman
-🔹 CI/CD Pipelines       🔹 Agile Methodology      🔹 Performance Optimization
-```
+
+<div align="center">
+
+| Git | GitHub | VS Code | Visual Studio | JWT | RESTful API |
+|:---:|:------:|:-------:|:-------------:|:---:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" /> | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/REST-FF6B6B?style=for-the-badge&logo=api&logoColor=white" width="45" /> |
+
+</div>
+
+<div align="center">
+
+| Postman | CI/CD | Agile | Performance Optimization |
+|:-------:|:-----:|:-----:|:------------------------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> | <img src="https://img.shields.io/badge/CI%2FCD-4A90E2?style=for-the-badge&logo=circleci&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/Agile-42D392?style=for-the-badge&logo=agile&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/Optimization-FF9F1C?style=for-the-badge&logo=speedtest&logoColor=white" width="45" /> |
+
+</div>
 
 ---
 
@@ -110,7 +137,7 @@ efficient code and delivering solutions that make a real impact.
 ## 🎓 Education
 
 <div align="center">
-  
+
 | Degree | Institution | Duration |
 |--------|-------------|----------|
 | 🎖️ **Master of Computer Science** | Maharishi Mahesh Yogi Vedic Vishwavidhyalaya, Katni | 2020 - 2022 |
@@ -126,6 +153,22 @@ efficient code and delivering solutions that make a real impact.
 ✅ JavaScript Certification Test - KG Coding (YouTube)
 ✅ Namaste JavaScript - NamasteDev.com
 ```
+
+---
+
+## 🚀 Featured Metrics
+
+<div align="center">
+
+| Metric | Achievement | Impact |
+|:------:|:-----------:|:------:|
+| ⚡ **Performance** | 35% Faster Transactions | Real-time processing |
+| 🔒 **Security** | 50% Less Deployment Errors | Production stability |
+| 📊 **Scalability** | 1000+ Conversations Handled | Enterprise-level capacity |
+| ✨ **UX** | 40% Better Load Performance | Cross-device optimization |
+| 🔄 **Real-time** | 200+ Simultaneous Connections | WebSocket mastery |
+
+</div>
 
 ---
 
@@ -151,6 +194,24 @@ efficient code and delivering solutions that make a real impact.
 
 ---
 
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![complete_MERN_Next_Typescript_PostGreSQL_stack](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=complete_MERN_Next_Typescript_PostGreSQL_stack&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/complete_MERN_Next_Typescript_PostGreSQL_stack)
+
+[![learning_c_cpp_and_dsa_with_mysirg](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=learning_c_cpp_and_dsa_with_mysirg&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/learning_c_cpp_and_dsa_with_mysirg)
+
+[![javascript-notes-in-hinglish-by-me](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=javascript-notes-in-hinglish-by-me&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/javascript-notes-in-hinglish-by-me)
+
+[![Learn_Python](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=Learn_Python&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/Learn_Python)
+
+[![MERN_Next_interview](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=MERN_Next_interview&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/MERN_Next_interview)
+
+</div>
+
+---
+
 ## 🎯 What I'm Currently Doing
 
 ```
@@ -159,46 +220,6 @@ efficient code and delivering solutions that make a real impact.
 ⚡ Exploring advanced TypeScript patterns & best practices
 🌍 Contributing to open-source communities
 💡 Researching modern web performance optimization techniques
-```
-
----
-
-## ⭐ Career Highlights
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>⚡ Performance</h3>
-      <p><strong>35% Faster</strong><br/>Transaction Processing</p>
-    </td>
-    <td align="center">
-      <h3>🔒 Security</h3>
-      <p><strong>50% Less</strong><br/>Deployment Errors</p>
-    </td>
-    <td align="center">
-      <h3>📊 Scalability</h3>
-      <p><strong>1000+</strong><br/>Conversations Handled</p>
-    </td>
-    <td align="center">
-      <h3>✨ UX</h3>
-      <p><strong>40% Better</strong><br/>Load Performance</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Metrics
-
-```
-┌─────────────────────────────────────────┐
-│  📱 Responsive Design     → Cross-Device │
-│  🔄 Real-time Updates     → Socket.IO    │
-│  🔐 Secure Auth           → JWT         │
-│  ⚙️  State Management      → Redux       │
-│  🎨 Modern UI/UX          → Tailwind CSS │
-│  📦 Scalable Backend       → Node.js     │
-└─────────────────────────────────────────┘
 ```
 
 ---
@@ -231,10 +252,6 @@ I'm always excited to discuss:
   [![Visitor Badge](https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20Visitors&color=58A6FF&style=flat-square)](https://github.com/Bppatkar)
   
   **Made with ❤️ | Powered by Passion | Built with Code**
-  
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9638128e84e1432cd8908dc3fd3c00/python-48.webp" width="25" alt="python" />
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9638128e84e1432cd8908dc3fd3c00/js-48.webp" width="25" alt="js" />
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9638128e84e1432cd8908dc3fd3c00/react-48.webp" width="25" alt="react" />
   
   ---
   
