@@ -18,7 +18,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f1f)](https://linkedin.com/in/Bhanu)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1f1f1f)](https://github.com/Bppatkar)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=1f1f1f)](https://portfolio-bhanu-2026.vercel.app)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1f1f1f)](tel:+918085274599)
+
   
   <br/>
   
@@ -78,7 +78,7 @@ efficient code and delivering solutions that make a real impact.
 
 | Node.js | Express.js | Socket.IO |
 |:-------:|:----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://skillicons.dev/icons?i=express" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" style="filter: invert(1);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
 
 </div>
 
@@ -102,7 +102,7 @@ efficient code and delivering solutions that make a real impact.
 
 | Git | GitHub | VS Code | Visual Studio | Postman | RESTful API |
 |:---:|:------:|:-------:|:-------------:|:-------:|:----------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> | <img src="https://skillicons.dev/icons?i=rest" width="45" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="filter: invert(1);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" width="45" /> |
 
 </div>
 
@@ -110,7 +110,7 @@ efficient code and delivering solutions that make a real impact.
 
 | JWT | CI/CD | Agile | Performance Optimization |
 |:---:|:-----:|:-----:|:------------------------:|
-| <img src="https://skillicons.dev/icons?i=jwt" width="45" /> | <img src="https://skillicons.dev/icons?i=circleci" width="45" /> | <img src="https://skillicons.dev/icons?i=agile" width="45" /> | <img src="https://skillicons.dev/icons?i=webpack" width="45" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="45" style="filter: invert(1);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="45" /> |
 
 </div>
 
@@ -239,6 +239,6 @@ I'm always excited to discuss:
   
   ---
   
-  *Last Updated: 2026* | *Open Source Enthusiast* | *Forever Learning* 🚀
+  *Last Updated: 2025* | *Open Source Enthusiast* | *Forever Learning* 🚀
   
 </div>
