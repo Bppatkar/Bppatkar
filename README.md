@@ -22,7 +22,7 @@
   
   <br/>
   
-  > 📍 **Bhopal, Madhya Pradesh, India** | 💻 **3+ Years of Experience** | 🎓 **MSc Computer Science**
+   📍 **Jabalpur, Madhya Pradesh, India** | 💻 **3+ Years of Experience** | 🎓 **MSc Computer Science**
   
 </div>
 
