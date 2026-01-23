@@ -1,93 +1,149 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhanu+Pratap+Patkar!;" alt="Hi There! I'm Bhanu Pratap Patkar!" />
-</h1>
+# Bhanu Pratap Patkar
 
-<h3 align="center">A passionate <strong>Post-Graduate MSc Computer Science student</strong> at MMYVV, with expertise in <strong>C, C++, Python,  DSA in Javascript, MERN Stack, PostgreSQL, Next JS, Typescript </strong>.</h3>
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
-</p>
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding-gif" width="350px"/>
-
----
-
-### 🚀 Quick Info
-
-- 💻 **Expertise:** C, C++, Python,MERN Stack, Next_Js, 
-- 🌱 **Learning:** DataStructure and Algorithms
-
-<br>
-
-<p align="left">
-  <a href="mailto:bhanupratappatkar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/bhanu-pratap-patkar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+%26+TypeScript+Enthusiast" alt="Typing Animation" />
+  
+  <br />
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanupratappatkar777@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhanu)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bppatkar)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-bhanu-2026.vercel.app)
+  
+  <br />
+  
+  📱 +918085274599 | 📍 Bhopal, Madhya Pradesh, India
+  
+</div>
 
 ---
 
-### 💻 Tech Stack
+## 👨‍💻 About Me
 
-
-  <summary>Click to expand my skills!</summary>
-  <br>
-
-  #### Languages
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  </p>
-
-  #### Frontend Development
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  </p>
-
-  #### Backend Development
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS" />
-  </p>
-
-
-
+Passionate **MERN Stack Developer** with **3+ years** of professional experience building scalable, full-stack web applications. Post-Graduate in Computer Science with expertise in modern web technologies and a strong foundation in Data Structures & Algorithms. Committed to writing clean, efficient code and delivering high-quality solutions that solve real-world problems.
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Technical Skills
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25" alt="Bhanu Pratap Patkar's GitHub Stats" />
-  </a>
-</p>
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Developer Tools & Methods**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-4A90E2?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
-### 📈 My 2025 Contribution Graph
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/39FF14/Bppatkar" alt="Bhanu Pratap Patkar's Github chart" />
-</p>
+### **MERN Stack Developer**
+**Gut Lernen Technocraft Pvt Ltd, Pune, Maharashtra** | *Dec 2022 – Present*
+
+- ✅ Developed scalable full-stack web applications using MERN stack with responsive UI design
+- ✅ Reduced page load times by **30–40%** and supported **100+ concurrent users**
+- ✅ Implemented JWT authentication and secure backend services in Agile teams
+- ✅ Improved system security and reduced deployment errors by **50%**
+- ✅ Conducted code reviews, unit/integration testing, and CI/CD deployments
+- ✅ Cut bug rates by **25%** across multiple projects
+- ✅ Delivered client-focused solutions with high-quality releases
+
+---
+
+## 🎓 Education
+
+### **Master of Computer Science**
+**Maharishi Mahesh Yogi Vedic Vishwavidhyalaya, Katni, MP** | *Apr 2020 – May 2022*
+
+### **Bachelor of Computer Science**
+**RDVV University, Jabalpur, MP** | *May 2015 – Apr 2019*
+
+---
+
+## 📜 Certifications
+
+- 🏆 **JavaScript Certification Test** - YouTube Course (KG Coding)
+- 🏆 **Namaste JavaScript** - NamasteDev.com
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25)](https://github.com/Bppatkar)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&layout=compact&theme=radical&hide_border=true)](https://github.com/Bppatkar)
+  
+</div>
+
+---
+
+## 🎯 What I'm Currently Doing
+
+- 🔍 Building scalable full-stack applications with **MERN & Next.js**
+- 📚 Strengthening my **Data Structures & Algorithms** skills
+- 🚀 Exploring advanced **TypeScript** patterns and best practices
+- 💡 Contributing to open-source projects
+
+---
+
+## 📈 Featured Achievements
+
+- 🚀 **Performance Optimization:** Reduced transaction processing time by **35%** in e-commerce platforms
+- 🔒 **Security:** Implemented robust JWT authentication reducing deployment errors by **50%**
+- 📊 **Scalability:** Built systems supporting **1000+ conversations** and **200+ simultaneous connections**
+- ✨ **User Experience:** Increased UI/UX performance by **40%** across mobile and desktop
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing new projects, collaborations, or interesting tech opportunities. Feel free to reach out!
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/-Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanupratappatkar777@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhanu)
+  [![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bppatkar)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge)](https://portfolio-bhanu-2026.vercel.app)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **Made with ❤️ by Bhanu Pratap Patkar**
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=8A2BE2&style=flat-square)
+  
+</div>
