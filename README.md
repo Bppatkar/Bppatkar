@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Next.js+%26+TypeScript+Expert;Building+Digital+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=800&height=100&duration=4000&lines=🚀+Full+Stack+Web+Developer;💎+MERN+Stack+Specialist;⚡+Next.js+%26+TypeScript+Expert;🎯+Building+Digital+Solutions" alt="Typing Animation" />
   
   <br />
   
@@ -78,7 +78,7 @@ efficient code and delivering solutions that make a real impact.
 
 | Node.js | Express.js | Socket.IO |
 |:-------:|:----------:|:---------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /> | <img src="https://skillicons.dev/icons?i=express" width="55" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55" /> |
 
 </div>
 
@@ -100,17 +100,17 @@ efficient code and delivering solutions that make a real impact.
 
 <div align="center">
 
-| Git | GitHub | VS Code | Visual Studio | JWT | RESTful API |
-|:---:|:------:|:-------:|:-------------:|:---:|:----------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" /> | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/REST-FF6B6B?style=for-the-badge&logo=api&logoColor=white" width="45" /> |
+| Git | GitHub | VS Code | Visual Studio | Postman | RESTful API |
+|:---:|:------:|:-------:|:-------------:|:-------:|:----------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> | <img src="https://skillicons.dev/icons?i=rest" width="45" /> |
 
 </div>
 
 <div align="center">
 
-| Postman | CI/CD | Agile | Performance Optimization |
-|:-------:|:-----:|:-----:|:------------------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" /> | <img src="https://img.shields.io/badge/CI%2FCD-4A90E2?style=for-the-badge&logo=circleci&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/Agile-42D392?style=for-the-badge&logo=agile&logoColor=white" width="45" /> | <img src="https://img.shields.io/badge/Optimization-FF9F1C?style=for-the-badge&logo=speedtest&logoColor=white" width="45" /> |
+| JWT | CI/CD | Agile | Performance Optimization |
+|:---:|:-----:|:-----:|:------------------------:|
+| <img src="https://skillicons.dev/icons?i=jwt" width="45" /> | <img src="https://skillicons.dev/icons?i=circleci" width="45" /> | <img src="https://skillicons.dev/icons?i=agile" width="45" /> | <img src="https://skillicons.dev/icons?i=webpack" width="45" /> |
 
 </div>
 
@@ -194,22 +194,6 @@ efficient code and delivering solutions that make a real impact.
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![complete_MERN_Next_Typescript_PostGreSQL_stack](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=complete_MERN_Next_Typescript_PostGreSQL_stack&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/complete_MERN_Next_Typescript_PostGreSQL_stack)
-
-[![learning_c_cpp_and_dsa_with_mysirg](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=learning_c_cpp_and_dsa_with_mysirg&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/learning_c_cpp_and_dsa_with_mysirg)
-
-[![javascript-notes-in-hinglish-by-me](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=javascript-notes-in-hinglish-by-me&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/javascript-notes-in-hinglish-by-me)
-
-[![Learn_Python](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=Learn_Python&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/Learn_Python)
-
-[![MERN_Next_interview](https://github-readme-stats.vercel.app/api/pin/?username=Bppatkar&repo=MERN_Next_interview&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Bppatkar/MERN_Next_interview)
-
-</div>
-
 ---
 
 ## 🎯 What I'm Currently Doing
@@ -255,6 +239,6 @@ I'm always excited to discuss:
   
   ---
   
-  *Last Updated: 2025* | *Open Source Enthusiast* | *Forever Learning* 🚀
+  *Last Updated: 2026* | *Open Source Enthusiast* | *Forever Learning* 🚀
   
 </div>
