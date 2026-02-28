@@ -188,7 +188,7 @@ efficient code and delivering solutions that make a real impact.
 
 <div align="center">
   
-![Bhanu's GitHub Chart](https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
+![Bhanu's GitHub Calendar](https://gh-calendar.vercel.app/api?username=Bppatkar&theme=dark&gradient=true)
   
 </div>
 
