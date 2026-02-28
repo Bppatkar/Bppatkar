@@ -178,9 +178,14 @@ efficient code and delivering solutions that make a real impact.
   
   ### 📈 My GitHub Stats
   
-  ![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&line_height=30)
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=ffb347&text_color=4ecdc4&line_height=30&include_all_commits=true&count_private=true&rank_icon=github&border_radius=15" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=4ecdc4&border_radius=15" />
+  </div>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ff6b6b&fire=ffb347&currStreakNum=4ecdc4&sideNums=4ecdc4&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=ffb347" width="100%" />
   
 </div>
 
@@ -191,13 +196,15 @@ efficient code and delivering solutions that make a real impact.
   [![Bhanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bppatkar&bg_color=0d1117&color=ff6b6b&line=ffb347&point=4ecdc4&area=true&area_color=ff6b6b&hide_border=true&custom_title=Bhanu's%20Coding%20Journey%202026&radius=16&theme=react&days=365)](https://github.com/Bppatkar)
   
   <br/>
-  <br/>
   
-  ![Calendar](https://ghchart.rshah.org/ff6b6b/Bppatkar)
+  <details>
+    <summary><b>📅 Click to see contribution calendar</b></summary>
+    <br/>
+    <img src="https://ghchart.rshah.org/ff6b6b/Bppatkar" alt="Bhanu's GitHub Contribution Calendar" width="100%" />
+  </details>
   
 </div>
 
----
 
 ---
 
