@@ -188,7 +188,7 @@ efficient code and delivering solutions that make a real impact.
 
 <div align="center">
   
-  ![Bhanu's 2025 Contribution Chart](https://ghchart.rshah.org/58A6FF/Bppatkar)
+  ![Bhanu's 2025 Contribution Chart](https://ghchart.rshah.org/2b6e4d/Bppatkar)
   
 </div>
 
