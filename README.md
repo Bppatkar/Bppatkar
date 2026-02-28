@@ -187,8 +187,10 @@ efficient code and delivering solutions that make a real impact.
 ### 📅 Contribution Graph - 2026
 
 <div align="center">
-  
-![Bhanu's GitHub Calendar](https://gh-calendar.vercel.app/api?username=Bppatkar&theme=dark&gradient=true)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=FFFFFF&line_height=30&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Bhanu's%20GitHub%20Universe&border_radius=15&ring_color=FF6B6B" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=FFFFFF&line_height=30&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Bhanu's%20GitHub%20Universe&border_radius=15" />
+  </picture>
   
 </div>
 
