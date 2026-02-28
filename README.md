@@ -187,18 +187,13 @@ efficient code and delivering solutions that make a real impact.
 ### 📅 Contribution Graph - 2026
 
 <div align="center">
-   <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&line_height=24&include_all_commits=true&custom_title=GitHub%20Analytics%202026" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF" width="400" />
-      </td>
-    </tr>
-  </table>
   
-  ![Bhanu's Contribution Calendar](https://ghchart.rshah.org/58A6FF/Bppatkar)
+  [![Bhanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bppatkar&bg_color=0d1117&color=ff6b6b&line=ffb347&point=4ecdc4&area=true&area_color=ff6b6b&hide_border=true&custom_title=Bhanu's%20Coding%20Journey%202026&radius=16&theme=react&days=365)](https://github.com/Bppatkar)
+  
+  <br/>
+  <br/>
+  
+  ![Calendar](https://ghchart.rshah.org/ff6b6b/Bppatkar)
   
 </div>
 
