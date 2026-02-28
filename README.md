@@ -188,8 +188,7 @@ efficient code and delivering solutions that make a real impact.
 
 <div align="center">
   
-  
-  ![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_border=true)
+ ![Bhanu's GitHub Skyline](https://skyline.github.com/Bppatkar/2025)
   
 </div>
 
