@@ -184,11 +184,11 @@ efficient code and delivering solutions that make a real impact.
   
 </div>
 
-### 📅 Contribution Graph - 2025
+### 📅 Contribution Graph - 2026
 
 <div align="center">
   
- ![Bhanu's GitHub Skyline](https://skyline.github.com/Bppatkar/2025)
+![Bhanu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bppatkar&theme=github-compact&bg_color=0D1117&color=58A6FF&line=2b6e4d&point=58A6FF&area=true&area_color=58A6FF&hide_border=true&custom_title=Bhanu's%20Contribution%20Graph%202025)
   
 </div>
 
