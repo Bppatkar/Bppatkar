@@ -188,7 +188,8 @@ efficient code and delivering solutions that make a real impact.
 
 <div align="center">
   
-  ![Bhanu's 2025 Contribution Chart](https://ghchart.rshah.org/f97316/Bppatkar)
+  
+  ![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&hide_border=true)
   
 </div>
 
