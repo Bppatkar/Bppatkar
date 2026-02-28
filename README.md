@@ -187,10 +187,9 @@ efficient code and delivering solutions that make a real impact.
 ### 📅 Contribution Graph - 2026
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=FFFFFF&line_height=30&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Bhanu's%20GitHub%20Universe&border_radius=15&ring_color=FF6B6B" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bppatkar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=FFFFFF&line_height=30&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Bhanu's%20GitHub%20Universe&border_radius=15" />
-  </picture>
+   [![Bhanu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bppatkar&bg_color=0d1117&color=ff79c6&line=ffb86c&point=50fa7b&area=true&area_color=ff5555&hide_border=true&custom_title=Bhanu's%20Coding%20Universe%202026&radius=16&theme=react&days=365)](https://github.com/Bppatkar)
+  
+  *✨ Each peak represents a day of intense coding ✨*
   
 </div>
 
