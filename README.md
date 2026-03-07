@@ -119,18 +119,8 @@ efficient code and delivering solutions that make a real impact.
 ## 💼 Professional Journey
 
 ### **MERN Stack Developer** 
-**Gut Lernen Technocraft Pvt Ltd, Pune, Maharashtra**  
-*Dec 2022 – Present*
 
-> 🎯 Crafting scalable full-stack applications that serve 100+ concurrent users
 
-**Key Achievements:**
-- ⚡ **30-40% Page Load Optimization** - Implemented advanced caching & lazy loading strategies
-- 🔒 **50% Reduction in Deployment Errors** - Integrated JWT authentication & secure backend services
-- 🐛 **25% Bug Reduction** - Conducted rigorous code reviews & comprehensive testing (Unit/Integration)
-- 📱 **Responsive Design Excellence** - Delivered seamless cross-platform experiences
-- 🚀 **Agile Team Collaboration** - Delivered client-focused solutions in sprints
-- 📊 **CI/CD Implementation** - Automated deployments ensuring high-quality releases
 
 ---
 
@@ -251,6 +241,6 @@ I'm always excited to discuss:
   
   ---
   
-  *Last Updated: 2025* | *Open Source Enthusiast* | *Forever Learning* 🚀
+  *Last Updated: 2026* | *Open Source Enthusiast* | *Forever Learning* 🚀
   
 </div>
